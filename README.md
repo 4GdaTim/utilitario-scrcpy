@@ -25,4 +25,4 @@ O script foi testado no Redmi Note 8 e Redmi 12, o posterior sendo um celular re
 
 No Redmi 12, com Minecraft rodando, a latência no modo Desktop/perfil de qualidade ficou comparável à jogar um jogo pela nuvem. Eu considero isso bem jogável.
 
-**Sinta-se à vontade para fazer um fork, modificar ou redistribuir eesse script.**
+**Sinta-se à vontade para fazer um fork, modificar ou redistribuir esse script.**
