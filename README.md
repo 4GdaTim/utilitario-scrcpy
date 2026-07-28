@@ -4,10 +4,10 @@
 ### Um pequeno utilitário para [Scrcpy](https://github.com/Genymobile/scrcpy) feito com [Bash](https://www.gnu.org/software/bash/) e [YAD](https://github.com/v1cont/yad).
 
 Este é um utilitário para interagir com o Scrcpy de diversos modos diferentes, sendo eles:
-- Normal
-- Áudio
-- Desktop
-- Microfone
+- Normal: *Executa o Scrcpy nas configurações padrões.*
+- Áudio: *Recebe apenas o áudio de saída do celular.*
+- Desktop: *Transforma o celular em um quase-computador.*
+- Microfone: *Recebe apenas o áudio de entrada do celular.*
 
 ## Pré-requisitos
 É preciso um cabo USB com suporte à ADB conectado entre o celular e o computador.
