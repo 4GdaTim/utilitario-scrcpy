@@ -1,4 +1,4 @@
-### ⚠️AVISO⚠️: Eu fiz esse script testando no meu celular, e no meu sistema operacional. Não posso confirmar que ele vá funcionar 100% em outros dispositivos.
+### ⚠️AVISO⚠️ Eu fiz esse script testando no meu celular, e no meu sistema operacional. Não posso confirmar que ele vá funcionar 100% em outros dispositivos.
 
 # Utilitário Scrcpy
 ### Um pequeno utilitário para [Scrcpy](https://github.com/Genymobile/scrcpy) feito com [Bash](https://www.gnu.org/software/bash/) e [YAD](https://github.com/v1cont/yad).
