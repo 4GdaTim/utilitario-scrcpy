@@ -27,6 +27,7 @@ No Redmi 12, com Minecraft rodando, a latência no modo Desktop/perfil Qualidade
 
 No modo Desktop, com o HyperDroid instalado, o script irá colocar automaticamente o HyperDroid em primeiro plano sempre que estiver na tela inicial do celular. Para desabilitar isso, desinstale o HyperDroid ou retire qualquer parte envolvendo o HyperDroid do script.
 
-[Vídeo: Executando Minecraft Bedrock no modo Desktop, perfil Qualidade.](https://github.com/user-attachments/assets/53bc4532-cd22-4927-96fd-da591c2e37bc)
+Vídeo: Executando Minecraft Bedrock no modo Desktop, perfil Qualidade
+[Vídeo](https://github.com/user-attachments/assets/53bc4532-cd22-4927-96fd-da591c2e37bc)
 
 **Sinta-se à vontade para fazer um fork, modificar ou redistribuir esse script.**
