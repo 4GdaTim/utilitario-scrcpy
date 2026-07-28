@@ -1,5 +1,5 @@
 # Utilitário Scrcpy
-### Um pequeno utilitário para Scrcpy feito com Bash e YAD (Yet Another Dialog).
+### Um pequeno utilitário para [Scrcpy](https://github.com/Genymobile/scrcpy) feito com [Bash](https://www.gnu.org/software/bash/) e [YAD](https://github.com/v1cont/yad).
 
 Este é um utilitário para interagir com o Scrcpy de diversos modos diferentes, sendo eles:
 - Normal
