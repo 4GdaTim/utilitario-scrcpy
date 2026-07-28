@@ -1,2 +1,28 @@
-# utilitario-scrcpy
-Um pequeno utilitário para Scrcpy feito com Bash e YAD (Yet Another Dialog).
+# Utilitário Scrcpy
+### Um pequeno utilitário para Scrcpy feito com Bash e YAD (Yet Another Dialog).
+
+Este é um utilitário para interagir com o Scrcpy de diversos modos diferentes, sendo eles:
+- Normal
+- Áudio
+- Desktop
+- Microfone
+
+## Pré-requisitos
+É preciso um cabo USB com suporte à ADB conectado entre o celular e o computador.
+Para checar se o cabo funciona, executar `adb devices` com o celular conectado. Ele deverá aparecer listado.
+
+### No PC:
+- Estar no Linux.
+- Ter o YAD, ADB e Scrcpy instalados. Para instalar no Debian/Ubuntu & derivados: `sudo apt install yad adb scrcpy`
+
+### No celular:
+- Ter o modo desenvolvedor ativado.
+- Nas opções de desenvolvedor, ter "Depuração USB" ativada. Em celulares Xiaomi, também ter ativada "Depuração USB (Config. de Segurança).
+- Opcional: Instalar o HyperDroid, pela Play Store, para uma experiência mais imersiva.
+
+# Informações adicionais
+O script foi testado no Redmi Note 8 e Redmi 12, o posterior sendo um celular recente.
+
+No Redmi 12, com Minecraft rodando, a latência no modo Desktop/perfil de qualidade ficou comparável à jogar um jogo pela nuvem. Eu considero isso bem jogável.
+
+**Sinta-se à vontade para fazer um fork desse script.**
