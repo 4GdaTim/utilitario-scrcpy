@@ -25,4 +25,6 @@ O script foi testado no Redmi Note 8 e Redmi 12, o posterior sendo um celular re
 
 No Redmi 12, com Minecraft rodando, a latência no modo Desktop/perfil de qualidade ficou comparável à jogar um jogo pela nuvem. Eu considero isso bem jogável.
 
+No modo Desktop, com o HyperDroid instalado, o script irá colocar automaticamente o HyperDroid em primeiro plano sempre que estiver na tela inicial do celular. Para desabilitar isso, desinstale o HyperDroid ou retire qualquer parte envolvendo o HyperDroid do script.
+
 **Sinta-se à vontade para fazer um fork, modificar ou redistribuir esse script.**
